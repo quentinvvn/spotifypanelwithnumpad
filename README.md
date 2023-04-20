@@ -1,1 +1,1 @@
-# spotifypanelwithnumpad
+# Spotify Panel with NumPad
