@@ -17,6 +17,7 @@ Works with any audio or video stream (Youtube, Spotify, Deezer...)
 
 - `Ctrl` + `Numpad 8`: Volume Up
 - `Ctrl` + `Numpad 2`: Volume Down
+- `Ctrl` + `Numpad 0`: Volume Mute
 
 
 ## Visual 
