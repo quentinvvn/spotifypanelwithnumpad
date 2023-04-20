@@ -1,4 +1,5 @@
 # Spotify Panel with NumPad
+Works with any audio or video stream (Youtube, Spotify, Deezer...)
 
 ## Usage :
 - Install [AutoHotkey](https://autohotkey.com/download/)
