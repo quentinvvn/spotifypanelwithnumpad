@@ -16,3 +16,6 @@ SetWorkingDir, %A_ScriptDir%
 
 ; Ctrl & Numpad 5: Play/Pause 
 ^Numpad5::Media_Play_Pause
+
+; Ctrl & Numpad 0: Volume Mute
+^Numpad0::Volume_Mute
